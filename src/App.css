@@ -1,0 +1,15 @@
+body {
+  padding: 30px 0;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Amatic SC';
+}
+
+h2, p {
+  font-family: 'Sacramento';
+}
